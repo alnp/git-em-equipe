@@ -1,2 +1,2 @@
 Tela principal 
-Precisa de uma tela secundária
+Precisa de uma tela de perfil
